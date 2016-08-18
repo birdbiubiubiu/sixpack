@@ -1,7 +1,7 @@
 {
     "name": "dwdabtest/abtest",
     "description": "AB Test",
-    "version": "1.0.0",
+    "license": "NIT",
     "authors": [
         {
             "name": "苏中利",
