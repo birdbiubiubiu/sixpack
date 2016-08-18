@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "DwD_A\BTest": "src/"
+            "DwD_ABTest": "src/"
         }
     },
 }
