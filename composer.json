@@ -1,6 +1,6 @@
 {
-    "name": "dwd/a\btest",
-    "description": "A\B Test",
+    "name": "dwd/abtest",
+    "description": "AB Test",
     "version": "1.0.0",
     "authors": [
         {
