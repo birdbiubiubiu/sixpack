@@ -1,5 +1,5 @@
 {
-    "name": "dwdabtest/abtest",
+    "name": "seatgeek/sixpack-php",
     "description": "AB Test",
     "license": "NIT",
     "authors": [
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "dwdabtest": "src/"
+            "SeatGeek": "src/"
         }
     }
 
